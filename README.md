@@ -32,9 +32,9 @@ Wuji is a cutting-edge iOS application designed to offer a new way of learning l
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/raphael-verger/Wuji/assets/109467967/02184765-5e1d-470f-9132-483e68f9bab0" width="200" />
-  <img src="https://github.com/raphael-verger/Wuji/assets/109467967/b4f69a98-d276-47a3-b538-7890557cf750" width="200" />
   <img src="https://github.com/raphael-verger/Wuji/assets/109467967/f8eda215-1432-43c8-859a-2245e7fa6e21" width="200" />
+  <img src="https://github.com/raphael-verger/Wuji/assets/109467967/b4f69a98-d276-47a3-b538-7890557cf750" width="200" />
+  <img src="https://github.com/raphael-verger/Wuji/assets/109467967/02184765-5e1d-470f-9132-483e68f9bab0" width="200" />
 </p>
 
 ## Video
