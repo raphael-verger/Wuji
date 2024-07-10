@@ -4,7 +4,7 @@
 
 ## Overview
 
-Wuji is a cutting-edge iOS application designed to offer a new way of learning languages. Leveraging a TikTok-inspired feed and AI-driven personalization, Wuji makes language learning engaging, interactive, and tailored to your individual progress.
+Wuji is an iOS application designed to offer a new way of learning languages. Leveraging a TikTok-inspired feed and AI-driven personalization, Wuji makes language learning engaging, interactive, and tailored to your individual progress.
 
 ## Features
 
